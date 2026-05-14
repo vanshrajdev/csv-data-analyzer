@@ -4,10 +4,10 @@ An interactive data analysis web application built with **Python**, **Pandas**, 
 Upload any CSV file and instantly get statistics, visualizations, and insights — no coding required from the user.
 
 ---
-
 ## 🚀 Live Demo
 
-> Deploy your own → [![Deploy on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[Open Live App](https://csv-data-analyzer-fysxywugv5r8arryfpk5fd.streamlit.app/)
+
 
 ---
 
