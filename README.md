@@ -88,6 +88,11 @@ numpy
 ---
 
 ## 📸 Screenshots
+![Dashboard](Screenshot%202026-05-14%20232539.png)
+
+![Dashboard](Screenshot%202026-05-14%20232706.png)
+
+![Dashboard](Screenshot%202026-05-14%20232740.png)
 
 > *(Add screenshots of your running app here after testing)*  
 > In VS Code terminal: `Ctrl + Shift + S` to screenshot, or just use Windows Snipping Tool.
